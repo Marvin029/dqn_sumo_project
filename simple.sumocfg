@@ -1,0 +1,10 @@
+<configuration>
+  <input>
+    <net-file value="map_from_osm.net.xml"/>
+    <route-files value="random_routes_new.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+  </time>
+</configuration>

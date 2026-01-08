@@ -1,0 +1,9 @@
+<configuration>
+  <input>
+    <net-file value="map_from_osm.net.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="1"/>
+  </time>
+</configuration>
